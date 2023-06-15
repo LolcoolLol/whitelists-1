@@ -10,6 +10,11 @@
       "attackable": false,
       "notag": false
     },
+    "890123456765432109": {
+      "hash": "777c51a32aea0edcc7784bb6ba0e9849ac09b0efef62f5479d373c5054f707bdeb6711d631d0422a75f0219fad682207d8bcf314f9b9b501319667e651048de0",
+      "attackable": false,
+      "notag": false
+    },
     "548146409065545730": {
       "hash": "c067e91dec67df9b95b9ebac22b6a5fef5b6d790b80a41430a9f5ccf3e6a233cacae03eafcad0e5d57fb85a2b083cbfc7cc1c073a4c87b03f53ac206b5bd2ec3",
       "attackable": false,
@@ -412,6 +417,20 @@
         "TagText": "TYPEWRITER"
       }
     },
+    "890123456765432109": {
+      "NameColor": {
+        "r": 0
+        "g": 255,
+        "b": 0
+      },
+      "Tag": {
+        "TagColor": {
+          "r": 255,
+          "g": 114,
+          "b": 118
+        },
+        "TagText": "STXR"
+      }
     "837815287897128990": {
       "NameColor": {
         "r": 170,
